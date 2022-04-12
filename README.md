@@ -1,4 +1,4 @@
-# Gym TTrading Environment
+# Gym Trading Environment
 
 This is a custom implementation of Trading environment in Gym Toolkit. The idea is create an environment in Gym that let implement any state-of-the-art algorithm of Deep Reinforcement Learning.
 
